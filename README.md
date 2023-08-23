@@ -17,7 +17,7 @@ Welcome to the KMEE Computer System Educational Platform! This platform is desig
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/kmee-computer-system-platform.git
+   git clone https://github.com/kaendeman/kmee-computer-system-platform.git
    cd kmee-computer-system-platform
 
    cd src
